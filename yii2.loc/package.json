@@ -1,0 +1,27 @@
+{
+  "name": "yii2.loc",
+  "version": "1.0.0",
+  "description": "eslint --init",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "eslint": "^4.6.1",
+    "eslint-add": "^1.0.0",
+    "eslint-auto-config": "^0.0.4",
+    "eslint-confg": "^1.1.0",
+    "eslint-config-npm": "^2.0.1",
+    "eslint-config-defaults": "^9.0.0",
+    "npm": "^5.4.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
